@@ -1,3 +1,4 @@
 # RealTimeBusTracking
-## Check out the Bus Schedule in real time! 
-### How to Run Roadmap of future improvements License information: Check out how the JS, HTML ans CSS files work together to create an efficient way to track the Bus Schedule in real time. 
+## MIT xPRO Professional Certificate in Coding: Full Stack Development with MERN - January 2021
+
+This repository was crafted for the Real Time Bus Tracking Solution for week 11. This webpage can be viewed via https://megnieves.github.io/RealTimeBusTracking/
